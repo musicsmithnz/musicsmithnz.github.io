@@ -1,0 +1,23 @@
+{
+  "name": "musicsmithnz.github.io",
+  "version": "1.0.0",
+  "description": "githubpages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/musicsmithnz/musicsmithnz.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@polymer/polymer": "^3.0.0-pre.9",
+    "@webcomponents/webcomponentsjs": "^1.1.0"
+  },
+  "bugs": {
+    "url": "https://github.com/musicsmithnz/musicsmithnz.github.io/issues"
+  },
+  "homepage": "https://github.com/musicsmithnz/musicsmithnz.github.io#readme"
+}
