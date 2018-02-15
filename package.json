@@ -12,12 +12,12 @@
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "@polymer/polymer": "^3.0.0-pre.9",
-    "@webcomponents/webcomponentsjs": "^1.1.0"
-  },
   "bugs": {
     "url": "https://github.com/musicsmithnz/musicsmithnz.github.io/issues"
   },
-  "homepage": "https://github.com/musicsmithnz/musicsmithnz.github.io#readme"
+  "homepage": "https://github.com/musicsmithnz/musicsmithnz.github.io#readme",
+  "dependencies": {
+    "@polymer/polymer": "^3.0.0-pre.9",
+    "@webcomponents/webcomponentsjs": "^1.1.0"
+  }
 }
