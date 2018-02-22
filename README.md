@@ -1,2 +1,0 @@
-# musicsmithnz.github.io
-githubpages
