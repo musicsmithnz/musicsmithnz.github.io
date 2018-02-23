@@ -1,6 +1,6 @@
 for (var i=0;i<frameworks.length; i++){
     var card=document.createElement("div");
-    card.setAttribute("class","card card-panel hoverable col s12 m6 l6 xl4");
+    card.setAttribute("class","card card-panel hoverable col s12 m6 l6 xl4 theme-light");
         var card_image=document.createElement("div");
         card_image.setAttribute("class","card-image");
             var img=document.createElement("img");
